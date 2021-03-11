@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#slider{
+    position:relative;
+    width:700px;
+    margin:auto;
+}
+#slider ul{
+    position:relative;
+    top:0;
+    left:0;
+}
+
+#slider li {
+    list-style: none;
+}
+
+
+img {
+    width: 700px;
+    height: 550px;
+}
